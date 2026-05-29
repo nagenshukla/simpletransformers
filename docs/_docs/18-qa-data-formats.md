@@ -190,7 +190,7 @@ to_predict = [
 
 The training data (`train_data`) must be input as a path (str) to a [JSONL](http://jsonlines.org/) file to use Lazy Loading.
 
-The structure of the JSON object is identical to the normal Question Answering train data [format](https://simpletransformers.ai/docs/qa-data-formats/#train-data-format).
+The structure of the JSON object is identical to the normal Question Answering train data [format](/docs/qa-data-formats/#train-data-format).
 
 **Note:** Currently, lazy loading is only supported for training. The full `eval_data` will be loaded to memory.
 {: .notice--warning}

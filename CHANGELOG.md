@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [0.70.7] - 2026-05-29
+
+### Changed
+
+- Moving docs to Github Pages. The docs will now be available at https://thilinarajapakse.github.io/simpletransformers/ instead of https://simpletransformers.ai/.
+
 ## [0.70.6] - 2026-05-29
 
 ### Fixed
@@ -720,7 +726,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - NER (design inspired by [displaCy Named Entity Visualizer](https://explosion.ai/demos/displacy-ent))
   - QA
 
-See [docs](https://simpletransformers.ai/docs/tips-and-tricks/#simple-viewer-visualizing-model-predictions-with-streamlit) for details.
+See [docs](https://thilinarajapakse.github.io/simpletransformers/docs/tips-and-tricks/#simple-viewer-visualizing-model-predictions-with-streamlit) for details.
 
 ## [0.46.5][0.46.5] - 2020-08-05
 
@@ -971,7 +977,7 @@ See [docs](https://simpletransformers.ai/docs/tips-and-tricks/#simple-viewer-vis
 
 ### Added
 
-- Added Lazy Loading support for classification tasks (except multi-label). ([Docs](https://simpletransformers.ai/docs/classification-specifics/#lazy-loading-data))
+- Added Lazy Loading support for classification tasks (except multi-label). ([Docs](https://thilinarajapakse.github.io/simpletransformers/docs/classification-specifics/#lazy-loading-data))
 
 ## [0.31.0][0.31.0] - 2020-05-30
 
